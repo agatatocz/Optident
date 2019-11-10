@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Optident/precache-manifest.981289f9e737cad1346945e6f6f6b036.js"
+  "/Optident/precache-manifest.eb1cfd1bd53ca9cf8eba0b1d5b89d010.js"
 );
 
 self.addEventListener('message', (event) => {
