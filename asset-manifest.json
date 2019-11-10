@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Optident/static/css/main.34de6062.chunk.css",
-    "main.js": "/Optident/static/js/main.156ab36c.chunk.js",
-    "main.js.map": "/Optident/static/js/main.156ab36c.chunk.js.map",
+    "main.js": "/Optident/static/js/main.fbd7c66c.chunk.js",
+    "main.js.map": "/Optident/static/js/main.fbd7c66c.chunk.js.map",
     "runtime-main.js": "/Optident/static/js/runtime-main.ecf684d4.js",
     "runtime-main.js.map": "/Optident/static/js/runtime-main.ecf684d4.js.map",
-    "static/js/2.4ee5f67f.chunk.js": "/Optident/static/js/2.4ee5f67f.chunk.js",
-    "static/js/2.4ee5f67f.chunk.js.map": "/Optident/static/js/2.4ee5f67f.chunk.js.map",
+    "static/js/2.089e1a5f.chunk.js": "/Optident/static/js/2.089e1a5f.chunk.js",
+    "static/js/2.089e1a5f.chunk.js.map": "/Optident/static/js/2.089e1a5f.chunk.js.map",
     "index.html": "/Optident/index.html",
-    "precache-manifest.ce1ccc316d2013f9405a72bef358cb7d.js": "/Optident/precache-manifest.ce1ccc316d2013f9405a72bef358cb7d.js",
+    "precache-manifest.560bc702669298b34149ba022705fb80.js": "/Optident/precache-manifest.560bc702669298b34149ba022705fb80.js",
     "service-worker.js": "/Optident/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/Optident/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.ecf684d4.js",
-    "static/js/2.4ee5f67f.chunk.js",
+    "static/js/2.089e1a5f.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.156ab36c.chunk.js"
+    "static/js/main.fbd7c66c.chunk.js"
   ]
 }
