@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b54ccc5356a9068946915e60e1ae943e",
+    "revision": "0f66d2782ab7cc968f1941ffed7bcd92",
     "url": "/Optident/index.html"
   },
   {
-    "revision": "c9599236f87f9ca739b7",
+    "revision": "c4da505373a45c3e5024",
     "url": "/Optident/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "69ad36d443020d83f335",
-    "url": "/Optident/static/js/2.c8f26bba.chunk.js"
+    "revision": "167acb2bdb85e4982541",
+    "url": "/Optident/static/js/2.4ee5f67f.chunk.js"
   },
   {
-    "revision": "c9599236f87f9ca739b7",
-    "url": "/Optident/static/js/main.a8a2ee0b.chunk.js"
+    "revision": "c4da505373a45c3e5024",
+    "url": "/Optident/static/js/main.156ab36c.chunk.js"
   },
   {
     "revision": "0c3ad108b46dbd61f905",
