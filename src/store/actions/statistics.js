@@ -1,5 +1,5 @@
 import { FETCH_STATISTICS } from "./types";
-import axios from "axios";
+import axios from "../../settings/http";
 
 export const fetchStatistics = () => dispatch => {
   return axios

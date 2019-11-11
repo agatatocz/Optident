@@ -1,5 +1,5 @@
 import { FETCH_RATES, ADD_RATE } from "./types";
-import axios from "axios";
+import axios from "../../settings/http";
 
 export const fetchRates = () => dispatch => {
   return axios

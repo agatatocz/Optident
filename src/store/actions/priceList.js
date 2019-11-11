@@ -8,7 +8,7 @@ import {
   UPDATE_POSITION,
   CREATE_POSITION
 } from "./types";
-import axios from "axios";
+import axios from "../../settings/http";
 
 const getPositions = positions =>
   positions.map(position => ({ ...position, count: 0 }));

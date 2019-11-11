@@ -1,5 +1,5 @@
-import axios from "axios";
 import { LOGIN, LOGOUT } from "./types";
+import axios from "../../settings/http";
 
 export const logIn = (email, password) => dispatch => {
   return axios
